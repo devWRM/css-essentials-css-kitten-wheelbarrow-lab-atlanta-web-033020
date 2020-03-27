@@ -30,7 +30,7 @@
 
 
                       /* div[id="ball"] + img */
-/*__write_selector_here__*/ div[id="ball"] + img {
+/*__write_selector_here__*/ #ball + img {
   position: absolute;
   z-index: 4;
   top: 260px;
